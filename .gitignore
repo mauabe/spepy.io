@@ -60,6 +60,9 @@ public
 
 # Mac files
 .DS_Store
+Icon
+Icon/r
+Icon/*
 
 # Yarn
 yarn-error.log
